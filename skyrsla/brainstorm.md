@@ -1,3 +1,23 @@
 ## Hugflæði (Brainstorm)
-Hér skráið þið allar hugmyndir um verkefni sem þið fáið, munið að engin hugmynd er vitlaus.  
-Þegar þið eruð komin með 10 eða fleiri hugmyndir skulið þið velja þá sem ykkur líst best á. 
+
+- Robot sem eltir og þegar komið nógu nálægt grípur í hlutinn.
+- Robot sem getur farið upp stiga.
+- Robot sem gefur þér bolta. þú velur á síðu hvaða lit boltinn er.
+- Robot sem kastar boltum.
+- Robot sem grípur hluti.
+- Robot sem teiknar.
+- Robot sem forritar aðra robota.
+- Robot sem vinnur á hugmyndum fyrir aðra robota.
+- Robot sem býr til aðra robota.
+- Robot með stefnuljós og notar þau, Bíll.
+- Robot sem keyrir að hljóði og klessir ekki á.
+- Robot sem lokar hurðum eftir sig.
+- Robot sem keyrir frá hljóði of klessir á.
+- Robot sem setur klósetsetuna niður eftir sig.
+- Robot sem ýtir á takkan til að slökkva á tölvu, aka litli frændi minn.
+- Robot með viftu sem eltir ákveðin lit.
+- Robot sem klárar námið fyrir mig.
+- Robot.
+- Robot sem er lyftari.
+- Robot sem er músamotta.
+- Robot sem ferðast eins og leðurblökumaðurinn.
