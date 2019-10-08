@@ -3,11 +3,22 @@ Hér skal gera flæðirit og sauðakóða nýtið ykkur https://draw.io. Þegar 
 
 Sauðakóða dæmi:
 ```
-loop forewer{
-  drive(until done)
-  ArmUp(30)
-  armDon(30)
-  clawOpen()
+cnt = 0
+loop forever{
+  drive()
+  if (wall == true)
+  {
+    turn()
+    cnt ++1
+  }
+  else
+  {
+    drive()
+  }
+  if (cnt == 4)
+  {
+    stop()
+  }
 }
  ```
 
