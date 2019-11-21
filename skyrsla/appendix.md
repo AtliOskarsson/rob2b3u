@@ -1,6 +1,6 @@
 # Viðauki
 ## Dagbækur
-https://github.com/AtliOskarsson/rob2b3u/wiki/Dagók
+https://github.com/AtliOskarsson/rob2b3u/wiki/Dagb%C3%B3k
 ## Kóði
 ```
 #include "vex.h"
