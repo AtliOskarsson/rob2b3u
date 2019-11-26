@@ -10,4 +10,4 @@ Prófun á heila. Hann virkar.<br>
 Prófun á mótorum, þeir virka.<br>
 
 <h1>3. prófun</h1>
-Prófun á Jón, hann virkar um 50% hann nær fótum sínum upp en annað við hann vill ekki virka.<br>
+Prófun á Jón, hann virkar svona eiginlega, hann nær fótum sínum upp en annað við hann vill ekki virka.<br>
