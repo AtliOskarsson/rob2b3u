@@ -4,7 +4,6 @@ Hér skal gera töflu eða lista yfir allan búnað sem notaður er gott væri a
 
   | Vél | rafbúnaður | Spenna | Viðnám | Styyki|
   | --- | --- | --- | --- | --- |
-  |   | Arduino uno |  |   |   |
-  |   | MQ7 | 5V | 33ohm |   |
-  | Breadboard |   |   |   |    |
+  |  | Heili  |   |   |  1x  |
   |   | Vex 239 motor | 7,2V |   |  6x  |
+  |   | Radio Transmitter |  |   |  1x  |
